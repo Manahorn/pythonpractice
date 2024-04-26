@@ -1,2 +1,2 @@
 # pythonpractice
-Learning Python
+Learning & practicing Python
